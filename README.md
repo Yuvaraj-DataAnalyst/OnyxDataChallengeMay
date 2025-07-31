@@ -25,6 +25,18 @@ It's not just charts. It’s insights with a personality. 🎯
   <img src="Mob - Home Page.png" alt="Mob - Home Page" width="1200"/>
 </p>
 
+<p align="center">
+  <img src="Mob - Sales Page.png" alt="Mob - Sales Page" width="1200"/>
+</p>
+
+<p align="center">
+  <img src="Mob - Location Insights.png" alt="Mob - Location Insights" width="1200"/>
+</p>
+
+<p align="center">
+  <img src="Mob - Customer Insights.png" alt="Mob - Customer Insights" width="1200"/>
+</p>
+
 ## 🧰 Tools Behind the Scenes
 
 - 🖥️ **Power BI** – Canvas for building the full dashboard experience  
