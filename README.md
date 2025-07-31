@@ -19,6 +19,12 @@ It's not just charts. It’s insights with a personality. 🎯
 
 ---
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Mob - Home Page.png" alt="Mob - Home Page" width="1200"/>
+</p>
+
 ## 🧰 Tools Behind the Scenes
 
 - 🖥️ **Power BI** – Canvas for building the full dashboard experience  
